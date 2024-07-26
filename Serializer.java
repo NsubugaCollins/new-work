@@ -121,7 +121,7 @@ public class Serializer {
 
     public static void main(String[] args) throws JSONException{
         Serializer sample = new Serializer(new User());
-        sample.serialize("login frank ogenrwothjimfrank@gmail.com");
+        sample.serialize("login Moureen naluyindamoureen6@gmail.com");
     }
 }
 
